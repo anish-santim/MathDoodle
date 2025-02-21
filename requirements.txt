@@ -1,0 +1,6 @@
+gradio
+pillow
+python-dotenv
+opencv-python
+numpy
+groq
