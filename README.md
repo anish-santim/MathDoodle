@@ -30,8 +30,8 @@ Make sure you have **Python 3.8+** installed, then follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/math_doodle_project.git
-cd math_doodle_project
+git clone https://github.com/anish-santim/MathDoodle.git
+cd MathDoodle
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
@@ -50,6 +50,7 @@ Create a `.env` file in the project root and add your **Groq API key**:
 ```
 GROQ_API_KEY=your_api_key_here
 ```
+You can get your Groq API key from this URL: [https://console.groq.com/keys](https://console.groq.com/keys)
 
 ### 5. Run the Application
 ```bash
