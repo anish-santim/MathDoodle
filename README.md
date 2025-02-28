@@ -12,7 +12,14 @@ MathDoodle is a web-based AI-powered application that converts handwritten mathe
 - **llama-3.2-90b-vision-preview**: The Llama-3.2-90B-Vision model can process both text and images, allowing it to perform tasks that require understanding and reasoning about visual content alongside textual information. This makes it suitable for applications like image captioning, visual question answering, and more complex image-based interactions.
 - **llama-3.3-70b-versatile**: The Llama-3.3-70B-Versatile model is designed to handle a wide range of tasks, including text generation, question answering, and more. It's a versatile model that can be fine-tuned for specific tasks or used as a general-purpose language model.
 
+### Screenshot 1: Main UI
+![Main UI](screenshots/main_ui.png) 
 
+### Screenshot 2: Sketchpad
+![Sketchpad](screenshots/sketchpad.png)
+
+### Screenshot 3: Processed Image
+![Processed Image](screenshots/processed_image.png)
 ## Project Structure
 ```
 math_doodle_project/
